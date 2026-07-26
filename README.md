@@ -1,0 +1,2 @@
+# awesome-sandbox
+go project
